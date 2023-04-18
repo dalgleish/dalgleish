@@ -1,10 +1,10 @@
 # Software Craftsman with 20+ years of experience
 
-<div style="display: flex;flex-direction: row;height: 48px;margin-bottom: 20px;">
-    <img src="new.png" width="48px"/>
-    <div style="margin-left: 5px;display: flex;flex-direction: column;justify-content: center;font-size: 32px;">
-        <a href="https://www.linkedin.com/in/andrewdalgleish/" style="color:white">You can hire me!</a>
-    </div>
+
+<div align="center">
+	<a href="https://www.linkedin.com/in/andrewdalgleish/">
+		<img src="header.svg" width="800" height="400">
+	</a>
 </div>
 
 ## Facts and figures
